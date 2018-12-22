@@ -1,1 +1,1 @@
-"# cli-table" 
+# cli-table
